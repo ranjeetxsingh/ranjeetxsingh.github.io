@@ -1,0 +1,41 @@
+.heading-color {
+  font-size: 2.8em;
+  color: #ff5722;
+}
+
+.sub-heading-color {
+  color: #ff5722;
+  font-weight: bold;
+}
+
+.date {
+  color: #f44336;
+  font-weight: bold;
+}
+
+.p-tag {
+  font-size: 18px;
+}
+
+.info-para {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.member-titles {
+  font-weight: 500;
+}
+
+.img-size {
+  width: 450px;
+  margin: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .img-size {
+    width: 200px;
+  }
+}
+
+
