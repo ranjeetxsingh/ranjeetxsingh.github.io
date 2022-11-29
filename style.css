@@ -31,6 +31,10 @@
   margin: 10px;
 }
 
+.text-left-custom {
+  text-align: left;
+}
+
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
   .img-size {
