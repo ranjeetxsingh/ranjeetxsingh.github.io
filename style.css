@@ -33,6 +33,12 @@
   margin: 10px;
 }
 
+.img-logo {
+  width: 250px;
+  padding: 20px;
+  margin: 20px;
+}
+
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
   .img-size {
@@ -49,5 +55,8 @@
   }
   .info-para-name {
     font-size: small;
+  }
+  .img-logo {
+    width: 150px;
   }
 }
